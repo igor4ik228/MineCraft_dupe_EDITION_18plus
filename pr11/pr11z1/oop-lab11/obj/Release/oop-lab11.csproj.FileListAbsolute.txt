@@ -1,0 +1,35 @@
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\bin\Release\oop-lab11.exe.config
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\bin\Release\oop-lab11.exe
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\bin\Release\oop-lab11.pdb
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\bin\Release\Library-oop-lab11.dll
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\bin\Release\Library-oop-lab11.pdb
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.csprojAssemblyReference.cache
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\MainWindow.g.cs
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\App.g.cs
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11_MarkupCompile.cache
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11_MarkupCompile.lref
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\MainWindow.baml
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.g.resources
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop_lab11.Properties.Resources.resources
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.csproj.GenerateResource.cache
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.csproj.CoreCompileInputs.cache
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.csproj.CopyComplete
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.exe
+C:\Users\rosti\source\repos\oop-lab11\oop-lab11\obj\Release\oop-lab11.pdb
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\bin\Release\oop-lab11.exe.config
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\bin\Release\oop-lab11.exe
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\bin\Release\oop-lab11.pdb
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\bin\Release\Library-oop-lab11.dll
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\bin\Release\Library-oop-lab11.pdb
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.csprojAssemblyReference.cache
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\MainWindow.g.cs
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\App.g.cs
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11_MarkupCompile.cache
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11_MarkupCompile.lref
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\MainWindow.baml
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.g.resources
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop_lab11.Properties.Resources.resources
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.csproj.GenerateResource.cache
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.csproj.CopyComplete
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.exe
+C:\Users\dimalenser\OneDrive\Робочий стіл\oop-lab11\oop-lab11\obj\Release\oop-lab11.pdb
