@@ -1,0 +1,17 @@
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.exe
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.deps.json
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.runtimeconfig.json
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.runtimeconfig.dev.json
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.dll
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\bin\Debug\netcoreapp3.1\pr11z2.pdb
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.csprojAssemblyReference.cache
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2_MarkupCompile.cache
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2_MarkupCompile.lref
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.g.resources
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.AssemblyInfoInputs.cache
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.AssemblyInfo.cs
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.dll
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr11z2\pr11z2\obj\Debug\netcoreapp3.1\pr11z2.pdb

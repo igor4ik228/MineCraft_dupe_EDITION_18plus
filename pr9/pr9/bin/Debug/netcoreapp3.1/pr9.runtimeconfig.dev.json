@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dimalenser\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dimalenser\\.nuget\\packages"
+    ]
+  }
+}

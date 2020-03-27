@@ -1,0 +1,12 @@
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.exe.config
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.exe
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.pdb
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.csprojAssemblyReference.cache
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.exe
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Ігор\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.pdb
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.exe.config
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.exe
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\bin\Debug\igorp3clasu.pdb
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.csprojAssemblyReference.cache
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.exe
+C:\Users\igorl\OneDrive\Documents\GitHub\IgorTodosijczuk2020\pr5\igorp3clasu\igorp3clasu\obj\Debug\igorp3clasu.pdb

@@ -1,0 +1,16 @@
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\bin\Debug\pr11.exe.config
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\bin\Debug\pr11.exe
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\bin\Debug\pr11.pdb
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\bin\Debug\pr11.xml
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.vbprojAssemblyReference.cache
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\MainWindow.g.vb
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\Application.g.vb
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11_MarkupCompile.cache
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11_MarkupCompile.lref
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\MainWindow.baml
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.g.resources
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.Resources.resources
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.vbproj.GenerateResource.cache
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.exe
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.xml
+C:\Users\dimalenser\OneDrive\Документы\GitHub\koledg2\pr11\pr11\obj\Debug\pr11.pdb

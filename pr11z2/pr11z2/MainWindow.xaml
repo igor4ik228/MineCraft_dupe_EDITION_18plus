@@ -1,0 +1,46 @@
+﻿<Window x:Class="pr11z2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr11z2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Label Content="Номер телефону" HorizontalAlignment="Left" Margin="112,68,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.499,1.076"/>
+        <Label Content="Номер паспорта" HorizontalAlignment="Left" Margin="112,114,0,0" VerticalAlignment="Top"/>
+        <Label Content="Число з інтервалу" HorizontalAlignment="Left" Margin="112,170,0,0" VerticalAlignment="Top" Height="29"/>
+        <Label Content="[10311;89645]:" HorizontalAlignment="Left" Margin="112,199,0,0" VerticalAlignment="Top" Height="29"/>
+        <Label Content="Українське ім'я:" HorizontalAlignment="Left" Margin="112,245,0,0" VerticalAlignment="Top" Height="29"/>
+        <Label Content="Введіть час:" HorizontalAlignment="Left" Margin="112,296,0,0" VerticalAlignment="Top" Height="29"/>
+        <Label Content="E-mail:" HorizontalAlignment="Left" Margin="112,346,0,0" VerticalAlignment="Top" Height="29"/>
+
+        <TextBox Name="number_phone" HorizontalAlignment="Left" Margin="228,72,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="number_pusport" HorizontalAlignment="Left" Margin="228,118,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="number_z_intervalu" HorizontalAlignment="Left" Margin="228,176,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="ukr_name" HorizontalAlignment="Left" Margin="228,242,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="time" HorizontalAlignment="Left" Margin="228,296,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Name="email" HorizontalAlignment="Left" Margin="228,352,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+
+        <Button Name="b_number_phone" Content="Перевірити" HorizontalAlignment="Left" Margin="377,72,0,0" VerticalAlignment="Top" Width="88" Click="b_number_phone_Click"/>
+        <Button Name="b_number_pusport" Content="Перевірити" HorizontalAlignment="Left" Margin="377,114,0,0" VerticalAlignment="Top" Width="88"/>
+        <Button Name="b_number_z_intervalu" Content="Перевірити" HorizontalAlignment="Left" Margin="377,175,0,0" VerticalAlignment="Top" Width="88"/>
+        <Button Name="b_ukr_name" Content="Перевірити" HorizontalAlignment="Left" Margin="377,245,0,0" VerticalAlignment="Top" Width="88"/>
+        <Button Name="b_time" Content="Перевірити" HorizontalAlignment="Left" Margin="377,296,0,0" VerticalAlignment="Top" Width="88"/>
+        <Button Name="b_email" Content="Перевірити" HorizontalAlignment="Left" Margin="377,351,0,0" VerticalAlignment="Top" Width="88"/>
+
+        <Label Name="l_number_phone" Content="помилка" HorizontalAlignment="Left" Margin="479,69,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+        <Label Name="l_number_pusport" Content="помилка" HorizontalAlignment="Left" Margin="479,111,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+        <Label Name="l_number_z_intervalu" Content="помилка" HorizontalAlignment="Left" Margin="479,172,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+        <Label Name="l_ukr_name" Content="помилка" HorizontalAlignment="Left" Margin="479,242,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+        <Label Name="l_time" Content="помилка" HorizontalAlignment="Left" Margin="479,293,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+        <Label Name="l_email" Content="помилка" HorizontalAlignment="Left" Margin="479,344,0,0" VerticalAlignment="Top" Foreground="#FFA40404" FontWeight="Bold"/>
+
+
+        <Label Content="Перевірка даних" HorizontalAlignment="Left" Margin="304,24,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+
+
+
+    </Grid>
+</Window>
